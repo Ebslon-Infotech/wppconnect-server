@@ -7,5 +7,11 @@
         "parser": "json"
       }
     }
+  ],
+  "prettier/prettier": [
+    "error",
+    {
+      "endOfLine": "auto"
+    }
   ]
 }
